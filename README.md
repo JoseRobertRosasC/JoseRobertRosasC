@@ -16,7 +16,7 @@ Skills: VUE JS / JS / HTML / CSS / C++ / JAVA/ PHYTON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRobertRosasC)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/JoseRobertRosasC)  
+
 
 
 
@@ -25,7 +25,7 @@ Skills: VUE JS / JS / HTML / CSS / C++ / JAVA/ PHYTON
 <h1 align="center">Hi 👋, I'm Robert Rosas</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joserobertrosasc&label=Profile%20views&color=0e75b6&style=flat" alt="joserobertrosasc" /> </p>
+![Profile views](https://gpvc.arturio.dev/JoseRobertRosasC)  
 
 <p align="left"> <a href="https://twitter.com/josrobe47513899" target="blank"><img src="https://img.shields.io/twitter/follow/josrobe47513899?logo=twitter&style=for-the-badge" alt="josrobe47513899" /></a> </p>
 
