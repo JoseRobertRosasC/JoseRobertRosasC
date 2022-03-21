@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Rosas</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-![](align="center" https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761128e726b9e1e7e1844941a9133a29743f977375a7&rid=giphy.gif&ct=g)
+![]( https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761128e726b9e1e7e1844941a9133a29743f977375a7&rid=giphy.gif&ct=g)
 
 ![Profile views](https://gpvc.arturio.dev/JoseRobertRosasC)  
 
