@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 👨‍💻 All of my projects are available at [](https://github.com/JoseRobertRosasC?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/JoseRobertRosasC?tab=repositories)
 
 - 💬 Ask me about **Python, HTML, CSS or JavaScript**
 
