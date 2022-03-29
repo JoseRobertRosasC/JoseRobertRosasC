@@ -39,10 +39,3 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoseRobertRosasC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseRobertRosasC&layout=compact&langs_count=7&theme=dark"/>
   
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/google.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="google.com" /></a></p>
-  
-
-  
